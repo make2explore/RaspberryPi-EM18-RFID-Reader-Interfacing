@@ -4,6 +4,9 @@
 
 🚩 To download and Install WiringPi library on Raspberry Pi - Go to Following Link  
 
+
+C Libraries
+
 🌐 http://wiringpi.com/download-and-install/  
 
 
@@ -14,4 +17,7 @@
 
 ⏩ wiringPi updated to 2.52 for the Raspberry Pi 4B  
 
-🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/
+🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/  
+
+
+Python Libraries
