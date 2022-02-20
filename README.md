@@ -25,5 +25,5 @@
 
 Import time and Serial library from program itself  
 
-import time  
-import serial  
+> import time  
+> import serial  
