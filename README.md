@@ -5,19 +5,25 @@
 🚩 To download and Install WiringPi library on Raspberry Pi - Go to Following Link  
 
 
-C Libraries
+    📜 C Libraries
 
-🌐 http://wiringpi.com/download-and-install/  
-
-
-⏩ wiringPi updated to 2.46 for the new Pi v3+  
-
-🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/  
+    🌐 http://wiringpi.com/download-and-install/  
 
 
-⏩ wiringPi updated to 2.52 for the Raspberry Pi 4B  
+    ⏩ wiringPi updated to 2.46 for the new Pi v3+  
 
-🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/  
+    🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/  
 
 
-Python Libraries
+    ⏩ wiringPi updated to 2.52 for the Raspberry Pi 4B  
+
+    🌐 http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/ 
+
+
+
+    📜 Python Libraries  
+
+    Import time and Serial library from program itself  
+
+    import time  
+    import serial  
